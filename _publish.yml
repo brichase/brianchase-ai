@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 8c280841-6aa6-49dd-81a5-0f349d6125a8
+      url: https://benevolent-stroopwafel-bdcdad.netlify.app
