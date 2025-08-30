@@ -8,8 +8,5 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "@quarto/netlify-plugin-quarto": "^0.0.5"
-  }
+  "description": ""
 }
